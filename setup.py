@@ -2,7 +2,7 @@
 from setuptools import find_packages, setup  # noqa: H301
 
 NAME = "fakepup"
-VERSION = "0.0.5"
+VERSION = "0.0.9"
 
 REQUIRES = [
   "fdsclient @ git+ssh://git@github.com/gdebeaupuis-plenty/fake-fds.git@0.0.3#subdirectory=python/fds_client"
