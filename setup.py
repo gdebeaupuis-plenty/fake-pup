@@ -11,7 +11,7 @@ REQUIRES = [
 setup(
     name=NAME,
     version=VERSION,
-    description="Fake Farm Definition Service API",
+    description="Fake PUP",
     author_email="info@plenty.ag",
     url="",
     install_requires=REQUIRES,
