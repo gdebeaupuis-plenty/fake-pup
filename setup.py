@@ -5,7 +5,7 @@ NAME = "fakepup"
 VERSION = "1.0.0"
 
 REQUIRES = [
-  "fds-client @ git+ssh://git@github.com/gdebeaupuis-plenty/fake-fds.git@0.0.1#subdirectory=python/fds_client"
+  "fds-client @ git+ssh://git@github.com/gdebeaupuis-plenty/fake-fds.git@0.0.2#subdirectory=python/fds_client"
 ]
 
 setup(

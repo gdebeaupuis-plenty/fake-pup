@@ -1,0 +1,9 @@
+README.md
+setup.py
+fakepup/__init__.py
+fakepup/main.py
+fakepup.egg-info/PKG-INFO
+fakepup.egg-info/SOURCES.txt
+fakepup.egg-info/dependency_links.txt
+fakepup.egg-info/requires.txt
+fakepup.egg-info/top_level.txt
