@@ -1,0 +1,7 @@
+README.md
+setup.py
+fake_pup.egg-info/PKG-INFO
+fake_pup.egg-info/SOURCES.txt
+fake_pup.egg-info/dependency_links.txt
+fake_pup.egg-info/requires.txt
+fake_pup.egg-info/top_level.txt
